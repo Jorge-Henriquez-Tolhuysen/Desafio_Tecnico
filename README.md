@@ -4,4 +4,4 @@ Como parte de una entrevista de trabajo, se planteó la necesidad de resolver un
 
 Siendo honesto, mi experiencia con java se limita a aplicaciones de consola y si he logrado hacer algo de lo solicitado es solo por que disfruto de programar, en diversos lenguajes y me agrada experimentar y aprender.
 
-Si he conseguido demostrar o no lo esperado, eso lo sabre con el tiempo. No obstante, en vista de lo anterior, por favor no considerar el codigo fuente como una muestra de tendencias y tecnologias relevantes, sino de lo que fui capaz de aprender en 24 de trabajo.
+Si he conseguido demostrar o no lo esperado, eso lo sabre con el tiempo. No obstante, en vista de lo anterior, por favor no considerar el código fuente como una muestra de tendencias y tecnologias relevantes, sino de lo que fuí capaz de aprender en 24 de trabajo.
