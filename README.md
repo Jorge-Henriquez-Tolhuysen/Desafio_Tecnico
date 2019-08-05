@@ -8,8 +8,8 @@ Si he conseguido demostrar o no lo esperado, eso lo sabre con el tiempo. No obst
 
 Las herramientas utilizadas fuerón las siguientes:
 
-Oracle Java SDK 12.0.2
-Apache NetBeans 11.1
-Eclipse IDE for Enterprise Java Developers Version: 2019-06 (4.12.0) Build id: 20190614-1200
-Apache Tomcat/9.0.22
+Oracle Java SDK 12.0.2,
+Apache NetBeans 11.1,
+Eclipse IDE for Enterprise Java Developers Version: 2019-06 (4.12.0) Build id: 20190614-1200,
+Apache Tomcat/9.0.22,
 Oracle Database 19c
