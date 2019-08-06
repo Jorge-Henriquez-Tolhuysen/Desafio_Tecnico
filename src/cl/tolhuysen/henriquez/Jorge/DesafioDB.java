@@ -54,7 +54,8 @@ public class DesafioDB {
 					usr.isBorrower = rs.getString(5).contentEquals("S");
 					usr.isLender   = rs.getString(6).contentEquals("S");
 				}
-				rs.close(); 
+				rs.close();
+				con.close(); 
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -79,7 +80,8 @@ public class DesafioDB {
 				if (rs.next()) {
 					amounNeeded = rs.getInt(1);
 				}
-				rs.close(); 
+				rs.close();
+				con.close(); 
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -104,7 +106,8 @@ public class DesafioDB {
 				if (rs.next()) {
 					amountRaised = rs.getInt(1);
 				}
-				rs.close(); 
+				rs.close();
+				con.close(); 
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -129,7 +132,8 @@ public class DesafioDB {
 				if (rs.next()) {
 					accountBalance = rs.getInt(1);
 				}
-				rs.close(); 
+				rs.close();
+				con.close(); 
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -161,7 +165,8 @@ public class DesafioDB {
 					l.amountLent =  rs.getInt(6);
 					lents.add(l);
 				}
-				rs.close(); 
+				rs.close();
+				con.close(); 
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -194,7 +199,8 @@ public class DesafioDB {
 					l.amountLent    =  rs.getInt(8);
 					lents.add(l);
 				}
-				rs.close(); 
+				rs.close();
+				con.close(); 
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -226,7 +232,8 @@ public class DesafioDB {
 					u.amountRaised = rs.getInt(8);
 					usersInNeed.add(u);
 				}
-				rs.close(); 
+				rs.close();
+				con.close(); 
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
