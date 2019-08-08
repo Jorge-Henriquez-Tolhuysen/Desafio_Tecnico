@@ -25,9 +25,9 @@ public class DesafioStrings {
 	public static final String strBorrowerDescription  = "bDescription";
 	public static final String strBorrowerMoney        = "bMoney";
 	
-	public static final String strUserId 			   = "userId";
-	public static final String strUserFName 		   = "userFName";
-	public static final String strUserLName 		   = "userLName";
+	public static final String strUserId 	           = "userId";
+	public static final String strUserFName 	   = "userFName";
+	public static final String strUserLName 	   = "userLName";
 
 
 
